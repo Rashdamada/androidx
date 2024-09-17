@@ -24,6 +24,6 @@
     "vite": "^4.4.7"
   },
   "dependencies": {
-    "chrome-types": "^0.1.219"
+    "chrome-types": "^0.1.301"
   }
 }
